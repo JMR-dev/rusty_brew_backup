@@ -1,0 +1,13 @@
+c:\Users\jason\workspace\rusty_brew_backup\target\debug\deps\widestring-34e5ea3b0d867007.rmeta: C:\Users\jason\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.5.1\src\lib.rs C:\Users\jason\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.5.1\src\error.rs C:\Users\jason\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.5.1\src\iter.rs C:\Users\jason\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.5.1\src\platform\mod.rs C:\Users\jason\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.5.1\src\platform\windows.rs C:\Users\jason\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.5.1\src\ucstr.rs C:\Users\jason\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.5.1\src\ucstring.rs C:\Users\jason\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.5.1\src\ustr.rs C:\Users\jason\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.5.1\src\ustring.rs
+
+c:\Users\jason\workspace\rusty_brew_backup\target\debug\deps\widestring-34e5ea3b0d867007.d: C:\Users\jason\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.5.1\src\lib.rs C:\Users\jason\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.5.1\src\error.rs C:\Users\jason\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.5.1\src\iter.rs C:\Users\jason\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.5.1\src\platform\mod.rs C:\Users\jason\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.5.1\src\platform\windows.rs C:\Users\jason\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.5.1\src\ucstr.rs C:\Users\jason\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.5.1\src\ucstring.rs C:\Users\jason\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.5.1\src\ustr.rs C:\Users\jason\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.5.1\src\ustring.rs
+
+C:\Users\jason\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.5.1\src\lib.rs:
+C:\Users\jason\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.5.1\src\error.rs:
+C:\Users\jason\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.5.1\src\iter.rs:
+C:\Users\jason\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.5.1\src\platform\mod.rs:
+C:\Users\jason\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.5.1\src\platform\windows.rs:
+C:\Users\jason\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.5.1\src\ucstr.rs:
+C:\Users\jason\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.5.1\src\ucstring.rs:
+C:\Users\jason\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.5.1\src\ustr.rs:
+C:\Users\jason\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.5.1\src\ustring.rs:
